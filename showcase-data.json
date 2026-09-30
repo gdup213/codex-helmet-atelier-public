@@ -1,0 +1,1009 @@
+{
+  "originals": [
+    {
+      "id": "o-01",
+      "number": "01",
+      "name": "Porcelain",
+      "kind": "original",
+      "description": "Sweeping black cheek and side panels, champagne edges and a pearl-white crown stripe give the shell a tailored racing graphic.",
+      "palette": [
+        {
+          "hex": "#EEEAE2",
+          "name": "#EEEAE2"
+        },
+        {
+          "hex": "#131415",
+          "name": "#131415"
+        },
+        {
+          "hex": "#B59A62",
+          "name": "#B59A62"
+        }
+      ],
+      "paletteLabel": "Pearl white · ink black · champagne",
+      "board": "designs/01-porcelain.png",
+      "views": [
+        {
+          "angle": "front",
+          "url": "designs/01-porcelain.png",
+          "position": "left top",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "left",
+          "url": "designs/01-porcelain.png",
+          "position": "right top",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "right",
+          "url": "designs/01-porcelain.png",
+          "position": "left bottom",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "top",
+          "url": "designs/01-porcelain.png",
+          "position": "right bottom",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        }
+      ],
+      "category": "Monochrome"
+    },
+    {
+      "id": "o-02",
+      "number": "02",
+      "name": "Carbon Halo",
+      "kind": "original",
+      "description": "A platinum brow band and twin crown rails frame exposed carbon, with petrol-blue cheek and side inlays.",
+      "palette": [
+        {
+          "hex": "#25282B",
+          "name": "#25282B"
+        },
+        {
+          "hex": "#C4C7CB",
+          "name": "#C4C7CB"
+        },
+        {
+          "hex": "#124B68",
+          "name": "#124B68"
+        }
+      ],
+      "paletteLabel": "Carbon · platinum · petrol blue",
+      "board": "designs/02-carbon-halo.png",
+      "views": [
+        {
+          "angle": "front",
+          "url": "designs/02-carbon-halo.png",
+          "position": "left top",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "left",
+          "url": "designs/02-carbon-halo.png",
+          "position": "right top",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "right",
+          "url": "designs/02-carbon-halo.png",
+          "position": "left bottom",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "top",
+          "url": "designs/02-carbon-halo.png",
+          "position": "right bottom",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        }
+      ],
+      "category": "Monochrome"
+    },
+    {
+      "id": "o-03",
+      "number": "03",
+      "name": "Split",
+      "kind": "original",
+      "description": "A diagonal division wraps across the shell, cut by precise white inlays and an off-centre crown facet.",
+      "palette": [
+        {
+          "hex": "#ECEBE7",
+          "name": "#ECEBE7"
+        },
+        {
+          "hex": "#34363A",
+          "name": "#34363A"
+        },
+        {
+          "hex": "#BFC4C8",
+          "name": "#BFC4C8"
+        }
+      ],
+      "paletteLabel": "Pearl white · matte charcoal · polished silver",
+      "board": "designs/03-split.png",
+      "views": [
+        {
+          "angle": "front",
+          "url": "designs/03-split.png",
+          "position": "left top",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "left",
+          "url": "designs/03-split.png",
+          "position": "right top",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "right",
+          "url": "designs/03-split.png",
+          "position": "left bottom",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "top",
+          "url": "designs/03-split.png",
+          "position": "right bottom",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        }
+      ],
+      "category": "Monochrome"
+    },
+    {
+      "id": "o-04",
+      "number": "04",
+      "name": "Precision",
+      "kind": "original",
+      "description": "Interlocking rectangular and trapezoidal panels, blue inset rails and a split crown track create an engineered composition.",
+      "palette": [
+        {
+          "hex": "#ADB0B2",
+          "name": "#ADB0B2"
+        },
+        {
+          "hex": "#111518",
+          "name": "#111518"
+        },
+        {
+          "hex": "#2053DA",
+          "name": "#2053DA"
+        }
+      ],
+      "paletteLabel": "Titanium · black · electric blue",
+      "board": "designs/04-precision.png",
+      "views": [
+        {
+          "angle": "front",
+          "url": "designs/04-precision.png",
+          "position": "left top",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "left",
+          "url": "designs/04-precision.png",
+          "position": "right top",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "right",
+          "url": "designs/04-precision.png",
+          "position": "left bottom",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "top",
+          "url": "designs/04-precision.png",
+          "position": "right bottom",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        }
+      ],
+      "category": "Monochrome"
+    },
+    {
+      "id": "o-05",
+      "number": "05",
+      "name": "British Racing",
+      "kind": "original",
+      "description": "A flowing double ivory side sash and tapered crown stripes give a classic racing palette contemporary movement.",
+      "palette": [
+        {
+          "hex": "#0A3026",
+          "name": "#0A3026"
+        },
+        {
+          "hex": "#E9DFCA",
+          "name": "#E9DFCA"
+        },
+        {
+          "hex": "#B59458",
+          "name": "#B59458"
+        }
+      ],
+      "paletteLabel": "Forest green · warm ivory · brass gold",
+      "board": "designs/05-british-racing.png",
+      "views": [
+        {
+          "angle": "front",
+          "url": "designs/05-british-racing.png",
+          "position": "left top",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "left",
+          "url": "designs/05-british-racing.png",
+          "position": "right top",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "right",
+          "url": "designs/05-british-racing.png",
+          "position": "left bottom",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "top",
+          "url": "designs/05-british-racing.png",
+          "position": "right bottom",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        }
+      ],
+      "category": "Colour"
+    },
+    {
+      "id": "o-06",
+      "number": "06",
+      "name": "Fjord",
+      "kind": "original",
+      "description": "A folded ivory rear ribbon with a slate window and a teal underfold produces crisp, Scandinavian geometry.",
+      "palette": [
+        {
+          "hex": "#536E80",
+          "name": "#536E80"
+        },
+        {
+          "hex": "#E8E3D7",
+          "name": "#E8E3D7"
+        },
+        {
+          "hex": "#79ABA8",
+          "name": "#79ABA8"
+        }
+      ],
+      "paletteLabel": "Slate blue · ivory · ice teal",
+      "board": "designs/06-fjord.png",
+      "views": [
+        {
+          "angle": "front",
+          "url": "designs/06-fjord.png",
+          "position": "left top",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "left",
+          "url": "designs/06-fjord.png",
+          "position": "right top",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "right",
+          "url": "designs/06-fjord.png",
+          "position": "left bottom",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "top",
+          "url": "designs/06-fjord.png",
+          "position": "right bottom",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        }
+      ],
+      "category": "Colour"
+    },
+    {
+      "id": "o-07",
+      "number": "07",
+      "name": "Bordeaux",
+      "kind": "original",
+      "description": "An ivory spine fans into tapered shoulders and pointed side arches, with fine copper outlining and rich burgundy windows.",
+      "palette": [
+        {
+          "hex": "#551C2C",
+          "name": "#551C2C"
+        },
+        {
+          "hex": "#E9E0CC",
+          "name": "#E9E0CC"
+        },
+        {
+          "hex": "#B77A53",
+          "name": "#B77A53"
+        }
+      ],
+      "paletteLabel": "Wine burgundy · ivory · copper",
+      "board": "designs/07-bordeaux.png",
+      "views": [
+        {
+          "angle": "front",
+          "url": "designs/07-bordeaux.png",
+          "position": "left top",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "left",
+          "url": "designs/07-bordeaux.png",
+          "position": "right top",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "right",
+          "url": "designs/07-bordeaux.png",
+          "position": "left bottom",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "top",
+          "url": "designs/07-bordeaux.png",
+          "position": "right bottom",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        }
+      ],
+      "category": "Colour"
+    },
+    {
+      "id": "o-08",
+      "number": "08",
+      "name": "Midnight",
+      "kind": "original",
+      "description": "A main diagonal ribbon, a floating counter-ribbon and a crown boomerang create layered, athletic geometry.",
+      "palette": [
+        {
+          "hex": "#112339",
+          "name": "#112339"
+        },
+        {
+          "hex": "#91A8BE",
+          "name": "#91A8BE"
+        },
+        {
+          "hex": "#EAE7DE",
+          "name": "#EAE7DE"
+        }
+      ],
+      "paletteLabel": "Ink navy · silver blue · warm white",
+      "board": "designs/08-midnight.png",
+      "views": [
+        {
+          "angle": "front",
+          "url": "designs/08-midnight.png",
+          "position": "left top",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "left",
+          "url": "designs/08-midnight.png",
+          "position": "right top",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "right",
+          "url": "designs/08-midnight.png",
+          "position": "left bottom",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "top",
+          "url": "designs/08-midnight.png",
+          "position": "right bottom",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        }
+      ],
+      "category": "Colour"
+    },
+    {
+      "id": "o-09",
+      "number": "09",
+      "name": "Volt",
+      "kind": "original",
+      "description": "A broken angular lime bracket, an ice-grey underblade and split crown spears create controlled high-energy graphics.",
+      "palette": [
+        {
+          "hex": "#30353B",
+          "name": "#30353B"
+        },
+        {
+          "hex": "#C8ED27",
+          "name": "#C8ED27"
+        },
+        {
+          "hex": "#B7C3C8",
+          "name": "#B7C3C8"
+        }
+      ],
+      "paletteLabel": "Graphite · lime · ice grey",
+      "board": "designs/09-volt.png",
+      "views": [
+        {
+          "angle": "front",
+          "url": "designs/09-volt.png",
+          "position": "left top",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "left",
+          "url": "designs/09-volt.png",
+          "position": "right top",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "right",
+          "url": "designs/09-volt.png",
+          "position": "left bottom",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "top",
+          "url": "designs/09-volt.png",
+          "position": "right bottom",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        }
+      ],
+      "category": "Signal"
+    },
+    {
+      "id": "o-10",
+      "number": "10",
+      "name": "Ember",
+      "kind": "original",
+      "description": "Stacked contour bands, deliberate charcoal interruptions and an orange crown horseshoe give a clean retro-modern rhythm.",
+      "palette": [
+        {
+          "hex": "#ECEAE4",
+          "name": "#ECEAE4"
+        },
+        {
+          "hex": "#EF532A",
+          "name": "#EF532A"
+        },
+        {
+          "hex": "#30353A",
+          "name": "#30353A"
+        }
+      ],
+      "paletteLabel": "Pearl white · vermilion · charcoal",
+      "board": "designs/10-ember.png",
+      "views": [
+        {
+          "angle": "front",
+          "url": "designs/10-ember.png",
+          "position": "left top",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "left",
+          "url": "designs/10-ember.png",
+          "position": "right top",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "right",
+          "url": "designs/10-ember.png",
+          "position": "left bottom",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "top",
+          "url": "designs/10-ember.png",
+          "position": "right bottom",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        }
+      ],
+      "category": "Signal"
+    },
+    {
+      "id": "o-11",
+      "number": "11",
+      "name": "Cobalt",
+      "kind": "original",
+      "description": "An open blue roundel at each rear quarter meets squared cheek bars and a twin-track crown loop.",
+      "palette": [
+        {
+          "hex": "#EFEFEA",
+          "name": "#EFEFEA"
+        },
+        {
+          "hex": "#2254CD",
+          "name": "#2254CD"
+        },
+        {
+          "hex": "#17202B",
+          "name": "#17202B"
+        }
+      ],
+      "paletteLabel": "Ceramic white · cobalt blue · ink",
+      "board": "designs/11-cobalt.png",
+      "views": [
+        {
+          "angle": "front",
+          "url": "designs/11-cobalt.png",
+          "position": "left top",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "left",
+          "url": "designs/11-cobalt.png",
+          "position": "right top",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "right",
+          "url": "designs/11-cobalt.png",
+          "position": "left bottom",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "top",
+          "url": "designs/11-cobalt.png",
+          "position": "right bottom",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        }
+      ],
+      "category": "Signal"
+    },
+    {
+      "id": "o-12",
+      "number": "12",
+      "name": "Coral",
+      "kind": "original",
+      "description": "A flowing coral side wave and ivory counter-wave meet curved crown shoulders around a calm navy centre.",
+      "palette": [
+        {
+          "hex": "#17253B",
+          "name": "#17253B"
+        },
+        {
+          "hex": "#EA756D",
+          "name": "#EA756D"
+        },
+        {
+          "hex": "#E8E2D5",
+          "name": "#E8E2D5"
+        }
+      ],
+      "paletteLabel": "Deep navy · coral red · ivory",
+      "board": "designs/12-coral.png",
+      "views": [
+        {
+          "angle": "front",
+          "url": "designs/12-coral.png",
+          "position": "left top",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "left",
+          "url": "designs/12-coral.png",
+          "position": "right top",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "right",
+          "url": "designs/12-coral.png",
+          "position": "left bottom",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        },
+        {
+          "angle": "top",
+          "url": "designs/12-coral.png",
+          "position": "right bottom",
+          "backgroundSize": "200% 200%",
+          "aspect": 1.0,
+          "caption": "AI-generated paint concept"
+        }
+      ],
+      "category": "Signal"
+    }
+  ],
+  "references": [
+    {
+      "id": "r-spindrift-karsten-le-blanc",
+      "number": "01",
+      "name": "Karsten Le Blanc — Navy / Blue / White",
+      "kind": "reference",
+      "description": "Broad navy, blue and white flowing bands; fine navy outlines and a quiet crown give the layout depth without visual noise.",
+      "source": "https://www.spindriftmedia.com/helmet-design",
+      "sourceTitle": "Spindrift Media",
+      "type": "Designer concept render",
+      "views": [
+        {
+          "angle": "front",
+          "url": "https://www.spindriftmedia.com/assets/images/pages/Helmet-Design-Spindrift-Karsten-Le-Blanc-02_1759420674.webp",
+          "source": "https://www.spindriftmedia.com/helmet-design",
+          "caption": "Front render — cropped from the designer's four-view board",
+          "position": "top-left",
+          "aspect": 1.1111111111111112,
+          "backgroundSize": "200% 200%",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "w": 0.5,
+            "h": 0.45,
+            "sourceWidth": 1,
+            "sourceHeight": 1
+          }
+        },
+        {
+          "angle": "left",
+          "url": "https://www.spindriftmedia.com/assets/images/pages/Helmet-Design-Spindrift-Karsten-Le-Blanc-01_1759420668.webp",
+          "source": "https://www.spindriftmedia.com/helmet-design",
+          "caption": "Wearer-left side render — separate source image",
+          "position": "",
+          "aspect": 1.5,
+          "backgroundSize": "200% 200%"
+        },
+        {
+          "angle": "right",
+          "url": "https://www.spindriftmedia.com/assets/images/pages/Helmet-Design-Spindrift-Karsten-Le-Blanc-02_1759420674.webp",
+          "source": "https://www.spindriftmedia.com/helmet-design",
+          "caption": "Wearer-right side render — cropped from the designer's four-view board",
+          "position": "bottom-right",
+          "aspect": 1.1111111111111112,
+          "backgroundSize": "200% 200%",
+          "crop": {
+            "x": 0.5,
+            "y": 0.45,
+            "w": 0.5,
+            "h": 0.45,
+            "sourceWidth": 1,
+            "sourceHeight": 1
+          }
+        },
+        {
+          "angle": "top",
+          "url": "https://www.spindriftmedia.com/assets/images/pages/Helmet-Design-Spindrift-Karsten-Le-Blanc-02_1759420674.webp",
+          "source": "https://www.spindriftmedia.com/helmet-design",
+          "caption": "Top render — cropped from the designer's four-view board",
+          "position": "top-right",
+          "aspect": 1.1111111111111112,
+          "backgroundSize": "200% 200%",
+          "crop": {
+            "x": 0.5,
+            "y": 0,
+            "w": 0.5,
+            "h": 0.45,
+            "sourceWidth": 1,
+            "sourceHeight": 1
+          }
+        }
+      ],
+      "palette": [],
+      "availability": "",
+      "notes": ""
+    },
+    {
+      "id": "r-spindrift-neil-houston",
+      "number": "02",
+      "name": "Neil Houston — White / Tartan / Split Stripe",
+      "kind": "reference",
+      "description": "White shell with a broad dark side band and restrained tartan detail. A split red and blue crown stripe adds a strong focal point.",
+      "source": "https://www.spindriftmedia.com/helmet-design",
+      "sourceTitle": "Spindrift Media",
+      "type": "Designer concept render",
+      "views": [
+        {
+          "angle": "front",
+          "url": "https://www.spindriftmedia.com/assets/images/pages/Helmet-Design-Spindrift-Neil-Houston-02_1759406831.webp",
+          "source": "https://www.spindriftmedia.com/helmet-design",
+          "caption": "Front render — cropped from the designer's four-view board",
+          "position": "top-left",
+          "aspect": 1.1111111111111112,
+          "backgroundSize": "200% 200%",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "w": 0.5,
+            "h": 0.45,
+            "sourceWidth": 1,
+            "sourceHeight": 1
+          }
+        },
+        {
+          "angle": "left",
+          "url": "https://www.spindriftmedia.com/assets/images/pages/Helmet-Design-Spindrift-Neil-Houston-01_1759406825.webp",
+          "source": "https://www.spindriftmedia.com/helmet-design",
+          "caption": "Wearer-left side render — separate source image",
+          "position": "",
+          "aspect": 1.5,
+          "backgroundSize": "200% 200%"
+        },
+        {
+          "angle": "right",
+          "url": "https://www.spindriftmedia.com/assets/images/pages/Helmet-Design-Spindrift-Neil-Houston-02_1759406831.webp",
+          "source": "https://www.spindriftmedia.com/helmet-design",
+          "caption": "Wearer-right side render — cropped from the designer's four-view board",
+          "position": "bottom-right",
+          "aspect": 1.1111111111111112,
+          "backgroundSize": "200% 200%",
+          "crop": {
+            "x": 0.5,
+            "y": 0.45,
+            "w": 0.5,
+            "h": 0.45,
+            "sourceWidth": 1,
+            "sourceHeight": 1
+          }
+        },
+        {
+          "angle": "top",
+          "url": "https://www.spindriftmedia.com/assets/images/pages/Helmet-Design-Spindrift-Neil-Houston-02_1759406831.webp",
+          "source": "https://www.spindriftmedia.com/helmet-design",
+          "caption": "Top render — cropped from the designer's four-view board",
+          "position": "top-right",
+          "aspect": 1.1111111111111112,
+          "backgroundSize": "200% 200%",
+          "crop": {
+            "x": 0.5,
+            "y": 0,
+            "w": 0.5,
+            "h": 0.45,
+            "sourceWidth": 1,
+            "sourceHeight": 1
+          }
+        }
+      ],
+      "palette": [],
+      "availability": "",
+      "notes": ""
+    },
+    {
+      "id": "r-spindrift-matthew-sturmer",
+      "number": "03",
+      "name": "Matthew Sturmer — Navy / Vermilion Arrow",
+      "kind": "reference",
+      "description": "A navy base and broad red-orange arrow are developed with double outlines and three fine diagonals. The strongest and brightest geometric option in this selection.",
+      "source": "https://www.spindriftmedia.com/helmet-design",
+      "sourceTitle": "Spindrift Media",
+      "type": "Designer concept render",
+      "views": [
+        {
+          "angle": "front",
+          "url": "https://www.spindriftmedia.com/assets/images/pages/Helmet-Design-Matthew-Sturmer-02_1759408537.webp",
+          "source": "https://www.spindriftmedia.com/helmet-design",
+          "caption": "Front render — cropped from the designer's four-view board",
+          "position": "top-left",
+          "aspect": 1.1111111111111112,
+          "backgroundSize": "200% 200%",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "w": 0.5,
+            "h": 0.45,
+            "sourceWidth": 1,
+            "sourceHeight": 1
+          }
+        },
+        {
+          "angle": "left",
+          "url": "https://www.spindriftmedia.com/assets/images/pages/Helmet-Design-Matthew-Sturmer-01_1759408532.webp",
+          "source": "https://www.spindriftmedia.com/helmet-design",
+          "caption": "Wearer-left side render — separate source image",
+          "position": "",
+          "aspect": 1.5,
+          "backgroundSize": "200% 200%"
+        },
+        {
+          "angle": "right",
+          "url": "https://www.spindriftmedia.com/assets/images/pages/Helmet-Design-Matthew-Sturmer-02_1759408537.webp",
+          "source": "https://www.spindriftmedia.com/helmet-design",
+          "caption": "Wearer-right side render — cropped from the designer's four-view board",
+          "position": "bottom-right",
+          "aspect": 1.1111111111111112,
+          "backgroundSize": "200% 200%",
+          "crop": {
+            "x": 0.5,
+            "y": 0.45,
+            "w": 0.5,
+            "h": 0.45,
+            "sourceWidth": 1,
+            "sourceHeight": 1
+          }
+        },
+        {
+          "angle": "top",
+          "url": "https://www.spindriftmedia.com/assets/images/pages/Helmet-Design-Matthew-Sturmer-02_1759408537.webp",
+          "source": "https://www.spindriftmedia.com/helmet-design",
+          "caption": "Top render — cropped from the designer's four-view board",
+          "position": "top-right",
+          "aspect": 1.1111111111111112,
+          "backgroundSize": "200% 200%",
+          "crop": {
+            "x": 0.5,
+            "y": 0,
+            "w": 0.5,
+            "h": 0.45,
+            "sourceWidth": 1,
+            "sourceHeight": 1
+          }
+        }
+      ],
+      "palette": [],
+      "availability": "",
+      "notes": ""
+    },
+    {
+      "id": "r-spindrift-rupert-clevely",
+      "number": "04",
+      "name": "Rupert Clevely — Heritage Red / Cream",
+      "kind": "reference",
+      "description": "Two-color red and cream layout with broad curved crown wings, a central stripe and fine framing. A quieter heritage direction with a lightly weathered finish.",
+      "source": "https://www.spindriftmedia.com/helmet-design",
+      "sourceTitle": "Spindrift Media",
+      "type": "Designer concept render",
+      "views": [
+        {
+          "angle": "front",
+          "url": "https://www.spindriftmedia.com/assets/images/pages/Helmet-Design-Spindrift-Rupert-Cleveley-02_1759422339.webp",
+          "source": "https://www.spindriftmedia.com/helmet-design",
+          "caption": "Front render — cropped from the designer's four-view board",
+          "position": "top-left",
+          "aspect": 1.1111111111111112,
+          "backgroundSize": "200% 200%",
+          "crop": {
+            "x": 0,
+            "y": 0,
+            "w": 0.5,
+            "h": 0.45,
+            "sourceWidth": 1,
+            "sourceHeight": 1
+          }
+        },
+        {
+          "angle": "left",
+          "url": "https://www.spindriftmedia.com/assets/images/pages/Helmet-Design-Spindrift-Rupert-Cleveley-0_1759422332.webp",
+          "source": "https://www.spindriftmedia.com/helmet-design",
+          "caption": "Wearer-left side render — separate source image",
+          "position": "",
+          "aspect": 1.5,
+          "backgroundSize": "200% 200%"
+        },
+        {
+          "angle": "right",
+          "url": "https://www.spindriftmedia.com/assets/images/pages/Helmet-Design-Spindrift-Rupert-Cleveley-02_1759422339.webp",
+          "source": "https://www.spindriftmedia.com/helmet-design",
+          "caption": "Wearer-right side render — cropped from the designer's four-view board",
+          "position": "bottom-right",
+          "aspect": 1.1111111111111112,
+          "backgroundSize": "200% 200%",
+          "crop": {
+            "x": 0.5,
+            "y": 0.45,
+            "w": 0.5,
+            "h": 0.45,
+            "sourceWidth": 1,
+            "sourceHeight": 1
+          }
+        },
+        {
+          "angle": "top",
+          "url": "https://www.spindriftmedia.com/assets/images/pages/Helmet-Design-Spindrift-Rupert-Cleveley-02_1759422339.webp",
+          "source": "https://www.spindriftmedia.com/helmet-design",
+          "caption": "Top render — cropped from the designer's four-view board",
+          "position": "top-right",
+          "aspect": 1.1111111111111112,
+          "backgroundSize": "200% 200%",
+          "crop": {
+            "x": 0.5,
+            "y": 0,
+            "w": 0.5,
+            "h": 0.45,
+            "sourceWidth": 1,
+            "sourceHeight": 1
+          }
+        }
+      ],
+      "palette": [],
+      "availability": "",
+      "notes": ""
+    }
+  ],
+  "generatedOn": "2026-09-30",
+  "viewOrder": [
+    "front",
+    "left",
+    "right",
+    "top"
+  ]
+}
